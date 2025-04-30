@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.titre1{
+
+    border: 5px;
+    font-size: x-large;
+    color: navy;
+   text-align: center;
+}
+.ita{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+ 
+}
+   .titre2{
+  color: navy;
+  
+   }
+   .details{
+    margin-top: 30px;
+    margin-left: 50px;
+    background-color: #f6f6f6;
+    border-radius: 8px;
+    padding: 20px;
+    max-width: 350px;
+    box-shadow: 0 4px rgba(0, 0, 0, 0.1);
+    border-top: 4px solid #00a3ad;
+    padding:9%;
+    max-height: 700px;
+   }
+   .details h2{
+    font-size: 1.2rem;
+    color: #1e3a8a;
+    margin-bottom: 10px;
+   }
+   .details p{
+    font-size: x-large;
+    color: #333;
+   }
+  
+   .tag{
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size:medium;
+    background-color: #d1d5db;
+    color: #333;
+   }
+   .titre3{
+    color: navy;
+   }
+   .details2{
+    margin-top: 30px;
+    margin-left: 50px;
+    background-color: #f6f6f6;
+    border-radius: 8px;
+    padding: 20px;
+    max-width: 350px;
+    box-shadow: 0 4px rgba(0, 0, 0, 0.1);
+    border-top: 4px solid #00a3ad;
+    padding: 9%;
+    max-height: 700px;
+    
+   }
+   #contenu{
+    display: none;
+   }
+   .details2 h2{
+    font-size: 1.2rem;
+    color: #1e3a8a;
+    margin-bottom: 10px;
+   }
+   .details2 p{
+    font-size: x-large;
+    color: #333;
+    
+   }
+   .titre4{
+    color: navy;
+    display: none;
+   }
+   .titre5{
+    color: navy;
+   }
+   .details3{
+    margin-top: 30px;
+    margin-left: 50px;
+    background-color: #f6f6f6;
+    border-radius: 8px;
+    padding: 20px;
+    max-width: 350px;
+    box-shadow: 0 4px rgba(0, 0, 0, 0.1);
+    border-top: 4px solid #00a3ad;
+    padding: 9%;
+    max-height: 800px;
+    flex-basis: 100%; /* occuper toute la ligne */
+    text-align: center;
+    
+   }
+   #contenu{
+    display: none;
+   }
+   .details2 h3{
+    font-size: 1.2rem;
+    color: #1e3a8a;
+    margin-bottom: 10px;
+   }
+   .details3 p{
+    font-size: x-large;
+    color: #333;
+   
+
+   }
+   .details4{
+    margin-top: 30px;
+    margin-left: 50px;
+    background-color: #f6f6f6;
+    border-radius: 8px;
+    padding: 20px;
+    max-width: 350px;
+    box-shadow: 0 4px rgba(0, 0, 0, 0.1);
+    border-top: 4px solid #00a3ad;
+    padding: 9%;
+    max-height: 800px;
+    flex-basis: 100%; /* occuper toute la ligne */
+    text-align: center;
+    
+   }
+   #contenu{
+    display: none;
+   }
+   .details4 h3{
+    font-size: 1.2rem;
+    color: #1e3a8a;
+    margin-bottom: 10px;
+   }
+   .details4 p{
+    font-size: x-large;
+    color: #333;
+   
+
+   }

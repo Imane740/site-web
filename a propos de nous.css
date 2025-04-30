@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.pic{
+    float: left;
+}
+ul{
+    float: left;
+    list-style: none;
+}
+li{
+    float: left;
+    padding: 30px;
+    font-size: 22px;
+    height:  10px;
+    text-align: center;
+a {color: blue;}
+a:hover{color: green;}
+}
+.PR1{
+    height: 100px;
+    background-color:rgba(0, 0, 0, 0.146);
+   margin-left: 240px;
+   margin-right: 240px;
+}
+a{
+    text-decoration: none;
+}
+.img1{
+    position: relative;
+    margin-left: 15px;
+    height: 500px;
+    width: 500px;
+    }
+ .pres{
+     font-size: larger;
+     position: absolute;
+     left: 50%;
+     top: 29%;
+     transform: translate(-20%,-20%);
+
+    }
+.OFPPT{
+    border: 5px;
+    color: green;
+    border-style: groove;
+    border-left: 0px;
+    border-right: 0px;
+    padding: 20px;
+    border-color: rgba(0, 0, 0, 0.146);
+    margin-top: 110px;
+}
+.int{
+    top: 560px;
+    position: relative;
+    margin-left: 290px;
+    height: 500px;
+    width: 500px;
+ 
+}
+.internat{
+
+    font-size: larger;
+    position: absolute;
+    left: 15%;
+    top: 117%;
+    transform: translate(-22%,-20%);
+    inline-size: 770px;
+   
+}
+.vie{
+    border: 5px;
+    color: green;
+    border-style: groove;
+    border-left: 0px;
+    border-right: 0px;
+    padding: 20px;
+    border-color: rgba(0, 0, 0, 0.146);
+    margin-top: 85px;
+    margin-left: 10px;
+    margin-right: 60px;
+
+}
